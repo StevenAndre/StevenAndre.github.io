@@ -429,6 +429,7 @@ footer{
     position: absolute;
     top: 1000px;
     left: 500px;
+    
 }
 .ClassAutor h2{
   color: rgba(53, 200, 161, 0.955);
@@ -443,4 +444,19 @@ left: 10px;
 width: 400px;
 height: 260px;
 color: rgb(255, 251, 251);
+}
+#divprue h2{
+  color: rgb(248, 5, 183);
+
+}
+#divprue {
+  background-color:rgba(33, 30, 226, 0.367) ;
+  text-align: center;
+  position: absolute;
+  top: 900px;
+  left: 10px;
+  width: 400px;
+  height: 260px;
+  color: rgb(255, 251, 251);
+
 }
