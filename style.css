@@ -431,7 +431,7 @@ footer{
     left: 500px;
 }
 .ClassAutor h2{
-  color: rgba(52, 7, 186, 0.844);
+  color: rgba(53, 200, 161, 0.955);
   
 }
 .ClassAutor {
@@ -442,4 +442,5 @@ top: 600px;
 left: 10px;
 width: 400px;
 height: 260px;
+color: rgb(255, 251, 251);
 }
