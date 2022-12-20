@@ -5,3 +5,6 @@ function as(){
 console.log('holaaa');
 }
 as();
+function saludo(){
+    alert("HOla Mundo");
+}
